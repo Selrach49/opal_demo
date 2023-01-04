@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+    <title>Welcome to Our Currency Exchange</title>
+  </head>
+  <body>
+    <header>
+      <h1>Welcome to Our Currency Exchange</h1>
+    </header>
+    <nav>
+      <ul>
+        <li><a href="#about">About Us</a></li>
+        <li><a href="#services">Services</a></li>
+        <li><a href="#rates">Exchange Rates</a></li>
+        <li><a href="#contact">Contact Us</a></li>
+      </ul>
+    </nav>
+    <main>
+      <section id="about">
+        <h2>About Us</h2>
+        <p>At Our Currency Exchange, we provide fast, reliable, and secure currency exchange services to customers around the world. We have a team of experienced professionals who are dedicated to providing excellent customer service and helping our clients get the best possible exchange rates.</p>
+      </section>
+      <section id="services">
+        <h2>Services</h2>
+        <ul>
+          <li>Currency exchange</li>
+          <li>Wire transfers</li>
+          <li>Check cashing</li>
+          <li>Bill payment</li>
+        </ul>
+      </section>
+      <section id="rates">
+        <h2>Exchange Rates</h2>
+        <p>Check out our competitive exchange rates:</p>
+        <table>
+          <tr>
+            <th>Currency</th>
+            <th>Buy Rate</th>
+            <th>Sell Rate</th>
+          </tr>
+          <tr>
+            <td>US Dollar</td>
+            <td>1.00</td>
+            <td>1.00</td>
+          </tr>
+          <tr>
+            <td>Euro</td>
+            <td>0.90</td>
+            <td>0.95</td>
+          </tr>
+          <tr>
+            <td>British Pound</td>
+            <td>0.80</td>
+            <td>0.85</td>
+          </tr>
+          <tr>
+            <td>Japanese Yen</td>
+            <td>105.00</td>
+            <td>110.00</td>
+          </tr>
+        </table>
+      </section>
+      <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Phone: 555-555-5555</p>
+        <p>Email: info@ourcurrencyexchange.com</p>
+        <p>Address: 123 Main Street, Anytown, USA</p>
+      </section>
+    </main>
+    <footer>
+      <p>Copyright 2021 Our Currency Exchange</p>
+    </footer>
+  </body>
+</html>
